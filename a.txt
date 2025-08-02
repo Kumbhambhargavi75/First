@@ -1,2 +1,3 @@
 git  stash -Saves your uncommitted changes (both staged and unstaged) to a stack.
 Reverts your working directory to a clean state (ready for branch switching).
+updating in github so i can pull locally using pull command
